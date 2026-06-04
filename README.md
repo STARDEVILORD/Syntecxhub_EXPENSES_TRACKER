@@ -38,10 +38,3 @@ Add project screenshots here.
 ## 👨‍💻 Author
 
 Shriram Pawar
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-```
-```
