@@ -31,10 +31,6 @@ Expense-Tracker/
 
 The main objective of this project is to help users monitor their spending habits and manage personal finances efficiently through a simple web-based interface.
 
-## 📸 Screenshots
-
-Add project screenshots here.
-
 ## 👨‍💻 Author
 
 Shriram Pawar
